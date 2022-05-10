@@ -6,6 +6,7 @@ returns a list of gradients
 
 `param.assign_sub(lr*gradient)`
 equivalent to `param -= lr*gradient`
+# will this change be pickedup ?
 
 
 

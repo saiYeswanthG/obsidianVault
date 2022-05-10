@@ -7,8 +7,12 @@
         "id": "0165e9d7b4d932d1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tensorflow/data_types.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tensorflow/data_types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,10 @@
     "collapsed": true
   },
   "active": "0165e9d7b4d932d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Tensorflow/data_types.md",
+    "Tensorflow/math.md",
+    "Tensorflow/learning.md",
+    "Tensorflow/dimensional_transformation.md"
+  ]
 }
